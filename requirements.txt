@@ -6,7 +6,7 @@ Jinja2==2.11.2
 MarkupSafe==1.1.1
 Werkzeug==1.0.1
 numpy==1.18.1
-pandas==1.2.1
+pandas
 matplotlib==3.3.1
 requests==2.25.1
 json5==0.9.5
